@@ -1,4 +1,4 @@
-🤓 Olá, meu nome é Everton Barreto seja bem-vindo ao meu perfil
+🤓 Olá, meu nome é Everton Barreto sou formado em Análise e Desenvolvimento de Sistemas e 
 
 💻 Skills: Python, MySQL, SQL Server...
 
@@ -8,7 +8,7 @@
 
 📚 Meus Interesses: Machine Learning, automação de scripts, desenvolvimento de aplicativos, desenvolvimento web...
 
-
+![Snake animation](https://github.com/Evertinho/Evertinho/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Evertinho/Evertinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,12 @@
-###😉 Olá, meu nome é Everton Barreto seja bem-vindo ao meu perfil
+🤓 Olá, meu nome é Everton Barreto seja bem-vindo ao meu perfil
 
-🛠️ Ferramentas: PyCharm, VS Code, Git, 
+💻 Skills: Python, MySQL, SQL Server...
+
+🛠️ Ferramentas: PyCharm, VS Code, Git, MySQL Workbench...
+
+📚 Estudando: Python, SQL, Linux, POO, AWS Cloud...
+
+📚 Meus Interesses: Machine Learning, automação de scripts, desenvolvimento de aplicativos, desenvolvimento web...
 
 
 <!--

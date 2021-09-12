@@ -10,15 +10,17 @@
   <img align="center" alt="Everton-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Everton-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Everton-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Everton-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Everton-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
   ##
 
-💻 Skills: Python, MySQL, SQL Server, Linux, VBA...
+💻 Skills: Python, MySQL, PostgreSQL, MongoDB, SQL Server, Linux, VBA...
 
 🛠️ Ferramentas: PyCharm, VS Code, Git, MySQL Workbench,...
 
-📚 Estudando: Python, SQL, Linux, VBA, Power BI....
+📚 Estudando: Python, SQL, NoSQL, Linux, VBA, Power BI....
 
 📚 Meus Interesses: Machine Learning, automação de scripts, data engineering...
   
